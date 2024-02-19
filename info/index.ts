@@ -1,11 +1,11 @@
 const info = {
-  name: "Michael Scharf",
-  headshot: "/linkedin.jpeg",
+  name: "Kanes Kanwchui",
+  headshot: "/daisyportfolio/public/profile.jpg",
   linkedIn: "https://www.linkedin.com/in/michael-w-scharf/",
   summary: "I'm a full-stack engineer at Public Impact, driving positive change for students and educators through the Opportunity Culture initiative and continuous innovation. With a combination of technical expertise and creative problem-solving, I deliver high-quality and user-friendly solutions to enhance websites, software, and applications.",
   github: "https://github.com/2017mike",
   email: "mwscharf@ucdavis.edu",
-  sections: ["About", "Projects", "Contact"],
+  sections: ["Projects", "Contact"],
   featuredProjects: [{
     name: 'Zap',
     summary: "A bug-tracking app that aims to combine project management and bug tracking aspects of app development.",
