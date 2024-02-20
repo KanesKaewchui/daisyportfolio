@@ -35,10 +35,10 @@ const MyApp = () => {
           Featured Projects
         </h2>
         <div className="flex justify-center mx-12">
-          <p>
+          {/* <p>
             All projects have test credentials of &quot;test123&quot; for
             username and password.
-          </p>
+          </p> */}
         </div>
 
         {info.featuredProjects.map((project, index) => (

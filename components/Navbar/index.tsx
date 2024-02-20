@@ -59,7 +59,7 @@ const Navbar = (props: Props) => {
           </label>
           <ul
             tabIndex={0}
-            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-neutral-800 rounded-box w-52"
+            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-neutral-100 rounded-box w-52"
           >
             {info.sections.map((section) => (
               <li key={section}>
