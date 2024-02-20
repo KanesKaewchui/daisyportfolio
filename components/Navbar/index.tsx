@@ -37,7 +37,7 @@ const Navbar = (props: Props) => {
       animate={hidden ? "hidden" : "visible"}
       /** I'm also going to add a custom easing curve and duration for the animation **/
       transition={{ ease: [0.1, 0.25, 0.3, 1], duration: 0.8 }}
-      className="navbar fixed bg-base-100  z-50"
+      className="navbar fixed bg-stone-800 z-50 text-white" 
     >
       <div className="navbar-start">
         <div className="dropdown">
@@ -59,7 +59,7 @@ const Navbar = (props: Props) => {
           </label>
           <ul
             tabIndex={0}
-            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
+            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-neutral-800 rounded-box w-52"
           >
             {info.sections.map((section) => (
               <li key={section}>
@@ -73,7 +73,7 @@ const Navbar = (props: Props) => {
             </li>
           </ul>
         </div>
-        <a href="" className="btn btn-ghost text-accent normal-case text-xl">
+        <a href="" className="btn btn-ghost text-accent normal-case text-xl text-white">
           {info.name}
         </a>
       </div>

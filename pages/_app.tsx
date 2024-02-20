@@ -18,7 +18,7 @@ const MyApp = () => {
     <>
       <InfoContext.Provider value={info}>
         <Head>
-          <title>Michael Scharf</title>
+          <title>Kanes Kaewchui</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"
