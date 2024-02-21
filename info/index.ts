@@ -7,7 +7,7 @@ const info = {
   email: "kaneskaewchui1@gmail.com",
   sections: ["Projects", "Contact"],
   featuredProjects: [{
-    name: 'Play',
+    name: 'Playhub',
     summary: "A bug-tracking app that aims to combine project management and bug tracking aspects of app development.",
     image: '/playhub.jpg', 
     link: "https://chiba-matcha-front-end.vercel.app/",
@@ -31,16 +31,16 @@ const info = {
   //   technologies: ["React", "Redux", "Sass"]
   // },
 ],
-  // otherProjects: [
-  //   {
-  //   name: 'This Portfolio',
-  //   summary: "My current personal portfolio! :) Designed and coded by me.",
-  //   link: "https://daisyportfolio.vercel.app/",
-  //   github: "https://github.com/2017mike/daisyportfolio",
-  //   technologies: ["React", "TypeScript", "Tailwind", "DaisyUI"]
-  //   },
+  otherProjects: [
+    {
+    name: 'This Portfolio',
+    summary: "My current personal portfolio! :) Designed and coded by me.",
+    link: "https://daisyportfolio.vercel.app/",
+    github: "https://github.com/KanesKaewchui",
+    technologies: ["React", "TypeScript", "Tailwind", "DaisyUI"]
+    },
    
-  // ]
+  ]
 }
 
 
