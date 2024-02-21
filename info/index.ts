@@ -7,7 +7,7 @@ const info = {
   email: "kaneskaewchui1@gmail.com",
   sections: ["Projects", "Contact"],
   featuredProjects: [{
-    name: 'PlayHub',
+    name: 'Play',
     summary: "A bug-tracking app that aims to combine project management and bug tracking aspects of app development.",
     image: '/playhub.jpg', 
     link: "https://chiba-matcha-front-end.vercel.app/",
