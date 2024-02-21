@@ -10,7 +10,7 @@ const Footer = (props: Props) => {
       <div>
         <p>Copyright © 2022 - All rights reserved</p>
         <div className="grid grid-flow-col gap-4">
-          <a href={info.github} target="_blank" rel="noreferrer">
+          <a href='https://github.com/KanesKaewchui' target="_blank" rel="noreferrer">
             <svg
               width="32px"
               height="32px"
@@ -23,7 +23,7 @@ const Footer = (props: Props) => {
 
           <a
             className="bg-white rounded-2xl"
-            href={info.linkedIn}
+            href='https://www.linkedin.com/in/kanes-kaewchui-131851235/'
             target="_blank"
             rel="noreferrer"
           >

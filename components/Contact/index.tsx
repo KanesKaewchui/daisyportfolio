@@ -61,7 +61,7 @@ const Contact = (props: Props) => {
         <a
           rel="noreferrer"
           target="_blank"
-          href={info.linkedIn}
+          href='https://www.linkedin.com/in/kanes-kaewchui-131851235/'
           className="text-info"
         >
           LinkedIn.
