@@ -35,7 +35,7 @@ const info = {
     {
     name: 'This Portfolio',
     summary: "My current personal portfolio! :) Designed and coded by me.",
-    link: "https://daisyportfolio.vercel.app/",
+    link: "https://daisyportfolio-3a2r-axcz67ppl-kanes-projects-952857bf.vercel.app/",
     github: "https://github.com/KanesKaewchui",
     technologies: ["React", "TypeScript", "Tailwind", "DaisyUI"]
     },
