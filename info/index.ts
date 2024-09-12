@@ -35,7 +35,7 @@ const info = {
     {
     name: 'Currency-Converter-Project',
     summary: "Currency Converter Project Designed and coded by me.",
-    link: "https://daisyportfolio-3a2r-axcz67ppl-kanes-projects-952857bf.vercel.app/",
+    link: "https://currency-converter-project-sand.vercel.app/",
     github: "https://github.com/KanesKaewchui/Currency-Converter-Project",
     technologies: ["React", "Tailwind", "DaisyUI"]
     },
