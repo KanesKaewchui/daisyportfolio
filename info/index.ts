@@ -2,7 +2,7 @@ const info = {
   name: "Kanes Kanwchui",
   headshot: "/linkedin.jpg",
   linkedIn: "https://www.linkedin.com/in/michael-w-scharf/",
-  summary: "I'm a full-stack developer Furthermore, I had the opportunity to attend the JSD Generation boot camp, where I enhanced my skills in full-stack development. Working in this environment allowed me to make significant progress and learn more about programming and website development. ",
+  summary: "I am a full-stack developer with experience from the JSD Generation boot camp, where I interned as a full-stack developer. This opportunity helped me enhance my skills in programming, web development, and full-stack technologies while working in a professional environment allowing me to grow both technically and personally.",
   github: "https://github.com/KanesKaewchui",
   email: "kaneskaewchui1@gmail.com",
   sections: ["Projects", "Contact"],
@@ -33,12 +33,19 @@ const info = {
 ],
   otherProjects: [
     {
-    name: 'This Portfolio',
-    summary: "My current personal portfolio! :) Designed and coded by me.",
+    name: 'Currency-Converter-Project',
+    summary: "Currency Converter Project Designed and coded by me.",
     link: "https://daisyportfolio-3a2r-axcz67ppl-kanes-projects-952857bf.vercel.app/",
-    github: "https://github.com/KanesKaewchui",
-    technologies: ["React", "TypeScript", "Tailwind", "DaisyUI" , "TEST"]
+    github: "https://github.com/KanesKaewchui/Currency-Converter-Project",
+    technologies: ["React", "Tailwind", "DaisyUI"]
     },
+    // {
+    //   name: 'Currency-Converter-Project',
+    //   summary: "Currency Converter Project Designed and coded by me.",
+    //   link: "https://daisyportfolio-3a2r-axcz67ppl-kanes-projects-952857bf.vercel.app/",
+    //   github: "https://github.com/KanesKaewchui/Currency-Converter-Project",
+    //   technologies: ["React", "Tailwind", "DaisyUI"]
+    // },
    
   ]
 }
