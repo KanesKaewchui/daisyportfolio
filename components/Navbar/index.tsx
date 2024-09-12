@@ -67,7 +67,7 @@ const Navbar = (props: Props) => {
               </li>
             ))}
             <li>
-              <a target="_blank" href="/CVKANES.pdf" rel="noreferrer">
+              <a target="_blank" href="/public/cv.pdf" rel="noreferrer">
                 Resume
               </a>
             </li>
@@ -85,7 +85,7 @@ const Navbar = (props: Props) => {
             </li>
           ))}
           <li>
-            <a target="_blank" href="/cv" rel="noreferrer">
+            <a target="_blank" href="/public/cv.pdf" rel="noreferrer">
               Resume
             </a>
           </li>
